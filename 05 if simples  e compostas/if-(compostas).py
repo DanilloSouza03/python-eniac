@@ -1,4 +1,4 @@
-# Estrutura simples IF 
+# Estrutura composta IF 
 temperatura = (int(input("Digite a temperatura: ")))
 if temperatura > 25:
     print("Ambiente quente, ajustando ar-condicionado.")
